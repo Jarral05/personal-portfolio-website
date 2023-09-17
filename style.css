@@ -478,6 +478,7 @@ a#footer-text {
     margin-top: 2.22rem;
     text-align: center;
     width: 20.22rem;
+    background-color: rgba(0, 0, 0, 0.3);
   }
 
   .hero-section-r a:link,
@@ -492,8 +493,10 @@ a#footer-text {
   }
 
   a#hero-btn {
-    color: #4ee1a0;
+    color: #ffffff;
     align-self: center;
+    background-color: rgba(0, 0, 0, 0.25);
+    padding: 0.25rem;
   }
 
   /* Experience Section */
